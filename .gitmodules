@@ -1,0 +1,6 @@
+[submodule "VPTK"]
+	path = VPTK
+	url = ./Plugins/VPTK/
+[submodule "Plugins/VPTK"]
+	path = Plugins/VPTK
+	url = https://SeanConnor@bitbucket.org/polypulse/vptk.git
