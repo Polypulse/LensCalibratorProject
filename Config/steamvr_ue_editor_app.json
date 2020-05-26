@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.filmcalibrator-11590370.ue4editor.exe",
+			"app_key": "application.generated.ue.filmcalibrator-13144385.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "R:/FilmCalibrator/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "R:/lenscalibratorproject/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "FilmCalibrator-11590370 [UE Editor]"
+					"name": "FilmCalibrator-13144385 [UE Editor]"
 				}
 			}
 		}
