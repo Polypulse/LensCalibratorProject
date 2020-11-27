@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{389FA38E-413C-3C0D-9FD8-4A93D778A14E}",
+	"EngineAssociation": "{9406A8B3-4AC5-09F3-8AA2-21AF437B89F9}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "LensCalibrator",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a6b9427b39bd419999f77b45df7805c0"
 		},
 		{
 			"Name": "Composure",
@@ -34,6 +35,15 @@
 		{
 			"Name": "MediaFrameworkUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "GraphScreenShot",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aab8a90c7551479081769ffd230c7e24"
 		}
 	]
 }
