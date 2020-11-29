@@ -1,6 +1,3 @@
-[submodule "VPTK"]
-	path = VPTK
-	url = ./Plugins/VPTK/
 [submodule "Plugins/lenscalibrator"]
 	path = Plugins/lenscalibrator
-	url = https://SeanConnor@bitbucket.org/polypulse/lenscalibrator.git
+	url = git@github.com:Polypulse/LensCalibrator.git
