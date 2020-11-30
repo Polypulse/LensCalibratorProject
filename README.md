@@ -18,3 +18,13 @@
 7. Select the UE4 version you want to target and click OK:
 
 ![Switch Unreal Engine Version 2](./Resources/switch_ue4_version-2.png)
+
+8. Double click ```FilmCalibrator.uproject``` and when it asks you to recompile, select yes:
+
+![Compile Project](./Resources/compile_message.png)
+
+9. Wait for it to build:
+
+![Building](./Resources/building.png)
+
+
