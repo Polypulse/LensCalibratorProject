@@ -1,16 +1,5 @@
 # Lens Calibrator - Unreal Engine Project
-## Trailer
-[![Lens Calibrator - Unreal Engine - Trailer](https://img.youtube.com/vi/HfIi4gkH9Es/0.jpg)](https://www.youtube.com/watch?v=HfIi4gkH9Es)
-
-## Full Walkthrough (~40 min)
-If documentation is preferred that can be found [here](https://docs.google.com/document/d/1HNYupII7wy-lZkVENv9LS7f7xqjnMhFPVWmATGc8Xoc/edit?usp=sharing).
-
-[![Lens Calibrator - Full Walkthrough](https://img.youtube.com/vi/CBvmpoI9hAs/0.jpg)](https://www.youtube.com/watch?v=CBvmpoI9hAs)
-
-## Supported Unreal Engine Versions
-- 4.24
-- 4.25
-- 4.26
+This is the UE4 test project for the [lens calibrator plugin](https://github.com/Polypulse/LensCalibrator).
 
 ## Installation/Building
 1. Recursively clone the repository via:
